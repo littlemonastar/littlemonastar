@@ -11,7 +11,7 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <h1 className="text-6xl font-bold">
           Welcome to{' '}
-          <a className="text-blue-600" href="https://nextjs.org">
+          <a className="text-red-700 text-9xl text-transparent bg-clip-text bg-gradient-to-br from-pink-400 to-red-60" href="https://nextjs.org">
             Next.js!
           </a>
         </h1>
@@ -49,7 +49,7 @@ export default function Home() {
             className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
           >
             <h3 className="text-2xl font-bold">Examples &rarr;</h3>
-            <p className="mt-4 text-xl">
+            <p className="mt-3 text-xl">
               Discover and deploy boilerplate example Next.js projects.
             </p>
           </a>
