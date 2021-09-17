@@ -16,22 +16,21 @@ export default function Home() {
     <main className="bg-white p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white">
      <div class="header-card flex justify-between font-semibold">
       <div className="flex flex-col items-center justify-center text-center">
-        <h1 className="text-5xl">
-          <a className="text-black text">
-           Mona Kaji 
-          </a>
+        <h1 className="">
+          <p className="text-black text-4xl">
+           Hello, my name is Mona🦁
+          </p>
+          <p className="text-black text-lg mt-2">
+          aka @littlemonastar 🦄❤️‍🔥
+          </p>
         </h1>
-
+        <div class="flex-row mt-3">
+          <a class="fab fa-github-square fa-3x fa-fw" href="https://github.com/littlemonastar"></a>
+          <a class="fab fa-twitter fa-3x fa-fw" href="https://twitter.com/littlemonastar"></a>
+          <a class="fab fa-instagram fa-3x fa-fw" href="https://www.instagram.com/littlemonastar/"></a>
+        </div>
         <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
-        <a
-            href="/about"
-            className="relative p-6 mt-6 text-left w-96 rounded-xl bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-20 border border-transparent"
-          >
-            <h3 className="text-2xl font-bold">Bio 🦁</h3>
-            <p className="mt-4 text-xl">
-              About Me
-            </p>
-          </a>
+      
 
 
           <a
@@ -50,7 +49,7 @@ export default function Home() {
           >
             <h3 className="text-2xl font-bold"B>Projects 🚀</h3>
             <p className="mt-4 text-xl">
-              Add soon
+            👾👾👾👾
             </p>
           </a>
 
@@ -70,17 +69,7 @@ export default function Home() {
           >
             <h3 className="text-2xl font-bold">Blog 📖</h3>
             <p className="mt-3 text-xl">
-              Add later
-            </p>
-          </a>
-
-          <a
-            href="/goal"
-            className="relative p-6 mt-6 text-left w-96 rounded-xl bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-20"
-          >
-            <h3 className="text-2xl font-bold">Goal 👾</h3>
-            <p className="mt-4 text-xl">
-            Add later
+              Journal
             </p>
           </a>
 
@@ -95,9 +84,6 @@ export default function Home() {
     
 
       <footer className="flex items-center justify-center w-full h-24">
-        <a class="fab fa-github-square fa-3x fa-fw" href="https://github.com/littlemonastar"></a>
-        <a class="fab fa-twitter fa-3x fa-fw" href="https://twitter.com/littlemonastar"></a>
-        <a class="fab fa-instagram fa-3x fa-fw" href="https://www.instagram.com/littlemonastar/"></a>
       </footer>
     </div>
   )
