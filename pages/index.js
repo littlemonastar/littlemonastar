@@ -1,4 +1,6 @@
 import { FacebookIcon, FacebookShareButton } from 'next-share'
+import { TwitterIcon, TwitterShareButton } from 'next-share'
+import { TelegramIcon, TelegramShareButton } from 'next-share'
 import Head from 'next/head'
 
 export default function Home() {
@@ -7,6 +9,8 @@ export default function Home() {
       <Head>
         <title>Monatopia</title>
         <link rel="icon" href="/favicon.ico"/>
+        <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet"></link>
+        <script src="https://kit.fontawesome.com/6c11584d2f.js" crossorigin="anonymous"></script>
       </Head>
     
     <main className="bg-white p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white">
@@ -17,17 +21,6 @@ export default function Home() {
            Mona Kaji 
           </a>
         </h1>
-
-        <h2>"✌"
-
-        <FacebookShareButton
-          url={'https://github.com/next-share'}
-          quote={'next-share is a social share buttons for your next React apps.'}
-          hashtag={'#nextshare'}
-        >
-            <FacebookIcon size={32} round />
-            </FacebookShareButton>
-        </h2>
 
         <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
         <a
@@ -101,17 +94,11 @@ export default function Home() {
 
     
 
-      {/* <footer className="flex items-center justify-center w-full h-24 border-t">
-        <a
-          className="flex items-center justify-center"
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="h-4 ml-1" />
-        </a>
-      </footer> */}
+      <footer className="flex items-center justify-center w-full h-24">
+        <a class="fab fa-github-square fa-3x fa-fw" href="https://github.com/littlemonastar"></a>
+        <a class="fab fa-twitter fa-3x fa-fw" href="https://twitter.com/littlemonastar"></a>
+        <a class="fab fa-instagram fa-3x fa-fw" href="https://www.instagram.com/littlemonastar/"></a>
+      </footer>
     </div>
   )
 }
