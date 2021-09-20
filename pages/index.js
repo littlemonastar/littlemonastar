@@ -17,7 +17,7 @@ export default function Home() {
      <div class="header-card flex justify-between font-semibold">
       <div className="flex flex-col items-center justify-center text-center">
         <h1 className="">
-          <p className="text-black text-4xl">
+          <p className="text-5xl text-black">
            Hello, my name is Mona🦁
           </p>
           <p className="text-black text-lg mt-2">
