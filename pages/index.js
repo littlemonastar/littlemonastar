@@ -37,9 +37,9 @@ export default function Home() {
             href="/experience"
             className="relative p-6 mt-6 text-left w-96 rounded-xl bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-20"
           >
-            <h3 className="text-2xl font-bold">Experience / CV 🦄</h3>
+            <h3 className="text-2xl font-bold">About 🦄</h3>
             <p className="mt-4 text-xl">
-              school {'&'} work {'&'} exhibition
+              Bio / CV
             </p>
           </a>
 
