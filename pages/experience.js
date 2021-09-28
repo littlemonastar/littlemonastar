@@ -21,6 +21,10 @@ function Experience(){
                     <a className="mt-6 text-2xl font-semibold underline" href="https://github.com/littlemonastar">Oink-o,Inc</a>. 
 
                 </h3>
+                <br/>
+                <h3>
+                    Contact: littlemonastar@gmail.com
+                </h3>
             </p>
         </div>
     </main>
@@ -30,7 +34,7 @@ function Experience(){
     <main className="bg-white p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white">
         <div class="text-4xl font-semibold">Experience</div>
         <p class="text-xl mt-4 max-w-lg">
-            <h3 className="mt-6 text-xl font-semibold underline">EDUCATION</h3>
+            <h3 className="mt-6 text-xl font-semibold">EDUCATION</h3>
                 <h4 className="mt-3">
                     Associate in Arts, Foothill College, Los Altos, CA
                     <h4 className="text-sm text-gray-600">
@@ -39,7 +43,7 @@ function Experience(){
                     <h4 className="text-sm text-gray-600">
                         August 2018 - August 2021</h4>
                 </h4><br/ >
-            <h3 className="mt-3 text-xl font-semibold underline">WORK EXPERIENCE</h3>
+            <h3 className="mt-3 text-xl font-semibold">WORK EXPERIENCE</h3>
                 <h4 className="mt-3">
                     Web designer/interior designer, Kitami, San carlos, CA
                     <h4 className="text-sm text-gray-600">
@@ -48,15 +52,16 @@ function Experience(){
                     <h4 className="text-sm text-gray-600">
                     June 2020 - August 2020</h4>
                 </h4><br/ >
-            <h3 className="mt-3 text-xl font-semibold underline">EXHIBITION</h3>   
-                <h4 className="mt-3">
-                    Group Exhibition, Digital Autonomy, New Art City,
+            <h3 className="mt-3 text-xl font-semibold">EXHIBITION</h3>   
+
+                <h4 className="mt-3 text-xl underline">
+                    <a className="" href="https://sjsu-dma-bfa.github.io/2021s/" >
+                    Group Exhibition, Digital Autonomy, New Art City,</a></h4>
                     <h4 className="text-gray-600 text-sm">
                     May 2021</h4>
                     Group Exhibition, RE:SET, New Art City,
                     <h4 className="text-gray-600 text-sm">
-                    May 2021 </h4>
-                </h4>   
+                    May 2021 </h4> 
                 <br /> 
         </p>
 

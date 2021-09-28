@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
     
     <main className="p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg">
-     <div class="header-card flex justify-between font-monospace">
+     <div class="header-card flex justify-between font-semibold">
       <div className="flex flex-col items-center justify-center text-center">
         <h1 className="">
           <p className="text-6xl text-black">
@@ -55,7 +55,7 @@ export default function Home() {
 
 
           <a
-            href="/blog"
+            href="https://chemical-office-f47.notion.site/4e8938ec9f27415cbb4bb51dbd286602?v=7ff755f0c9a44ce196f222ea02f66bef"
             className="bg-white relative p-6 mt-6 text-center w-96 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white"
           >
             <h3 className="text-2xl font-bold">Blog 📖</h3>
@@ -70,7 +70,7 @@ export default function Home() {
           >
             <h3 className="text-2xl font-bold">mission 🔥</h3>
             <p className="mt-3 text-xl">
-              Journal
+              The mission of my life
             </p>
           </a>
 

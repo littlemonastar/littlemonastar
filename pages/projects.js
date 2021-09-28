@@ -18,7 +18,12 @@ function Projects(){
         <p class="text-xl mt-4 max-w-lg">
             <a className="mt-6 text-xl font-semibold underline" href="https://littlemonastar.github.io/art101/final/">KATHARSIS</a>
         <h3 className="mt-3 text-sm font-mono">2020. School project.  
-
+        </h3>
+        </p>
+        <br/ >
+        <p class="text-xl mt-4 max-w-lg">
+            <a className="mt-6 text-xl font-semibold underline" href="https://www.mosh.lol/ja">Mosh DAO</a>
+        <h3 className="mt-3 text-sm font-mono">2021.   
         </h3>
         </p>
 
