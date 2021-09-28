@@ -16,10 +16,16 @@ function Experience(){
     <main className="bg-white p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white">
         <div class="text-4xl font-semibold">Bio
             <p class="text-xl mt-4 max-w-lg">
-                test
+                <h3 className="mt-3 font-semibold">
+                    Hello, I'm Mona. I'm an artist and founder of{' '}
+                    <a className="mt-6 text-2xl font-semibold underline" href="https://github.com/littlemonastar">Oink-o,Inc</a>. 
+
+                </h3>
             </p>
         </div>
     </main>
+
+    <br/ >
 
     <main className="bg-white p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white">
         <div class="text-4xl font-semibold">Experience</div>
