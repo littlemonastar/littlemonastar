@@ -13,11 +13,11 @@ export default function Home() {
         <script src="https://kit.fontawesome.com/6c11584d2f.js" crossorigin="anonymous"></script>
       </Head>
     
-    <main className="bg-white p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white">
-     <div class="header-card flex justify-between font-semibold">
+    <main className="p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg">
+     <div class="header-card flex justify-between font-monospace">
       <div className="flex flex-col items-center justify-center text-center">
         <h1 className="">
-          <p className="text-5xl text-black">
+          <p className="text-6xl text-black">
            Hello, my name is Mona🦁
           </p>
           <p className="text-black text-lg mt-2">
@@ -35,9 +35,9 @@ export default function Home() {
 
           <a
             href="/experience"
-            className="relative p-6 mt-6 text-left w-96 rounded-xl bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-20"
+            className="bg-white relative p-6 mt-6 text-center w-96 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white"
           >
-            <h3 className="text-2xl font-bold">About 🦄</h3>
+            <h3 className="text-2xl font-bold text-center">About 🦄</h3>
             <p className="mt-4 text-xl">
               Bio / CV
             </p>
@@ -45,29 +45,30 @@ export default function Home() {
 
           <a
             href="/projects"
-            className="relative p-6 mt-6 text-left w-96 rounded-xl bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-20"
+            className="bg-white relative p-6 mt-6 text-center w-96 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white"
           >
             <h3 className="text-2xl font-bold"B>Projects 🚀</h3>
-            <p className="mt-4 text-xl">
+            <p className="mt-4 text-xl text-center">
             👾👾👾👾
             </p>
           </a>
 
+
           <a
-            href="/portfolio"
-            className="relative p-6 mt-6 text-left w-96 rounded-xl bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-20"
+            href="/blog"
+            className="bg-white relative p-6 mt-6 text-center w-96 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white"
           >
-            <h3 className="text-2xl font-bold">Portfolio 🎨</h3>
+            <h3 className="text-2xl font-bold">Blog 📖</h3>
             <p className="mt-3 text-xl">
-              My artworks
+              Journal
             </p>
           </a>
 
           <a
-            href="/blog"
-            className="relative p-6 mt-6 text-left w-96 rounded-xl bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-20"
+            href="/mission"
+            className="bg-white relative p-6 mt-6 text-center w-96 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white"
           >
-            <h3 className="text-2xl font-bold">Blog 📖</h3>
+            <h3 className="text-2xl font-bold">mission 🔥</h3>
             <p className="mt-3 text-xl">
               Journal
             </p>
