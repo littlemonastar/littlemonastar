@@ -21,7 +21,7 @@ export default function Home() {
            Hello, my name is Mona🦁
           </p>
           <p className="text-black text-lg mt-2">
-          aka @littlemonastar 🦄❤️‍🔥
+          aka @littlemonastar 🦄❤️‍🔥🎨
           </p>
         </h1>
         <div class="flex-row mt-3">
