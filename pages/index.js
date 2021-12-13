@@ -21,7 +21,7 @@ export default function Home() {
            Hello, my name is Mona🦁
           </p>
           <p className="text-black text-lg mt-2">
-          aka @littlemonastar 🦄❤️‍🔥
+          aka @littlemonastar 🦄❤️‍🔥🎨
           </p>
         </h1>
         <div class="flex-row mt-3">
@@ -55,7 +55,7 @@ export default function Home() {
 
 
           <a
-            href="https://chemical-office-f47.notion.site/4e8938ec9f27415cbb4bb51dbd286602?v=7ff755f0c9a44ce196f222ea02f66bef"
+            href="https://42o.notion.site/4e8938ec9f27415cbb4bb51dbd286602?v=c0827ad265044279abe122bb204941ae"
             className="bg-white relative p-6 mt-6 text-center w-96 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white"
           >
             <h3 className="text-2xl font-bold">Blog 📖</h3>

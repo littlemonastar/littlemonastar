@@ -16,14 +16,32 @@ function Projects(){
         <main className="bg-white p-12 rounded-xl bg-opacity-60 backdrop-filter backdrop-blur-lg border-8 border-white">
         <div class="text-4xl font-semibold">Projects</div>
         <p class="text-xl mt-4 max-w-lg">
-            <a className="mt-6 text-xl font-semibold underline" href="https://littlemonastar.github.io/art101/final/">KATHARSIS</a>
-        <h3 className="mt-3 text-sm font-mono">2020. School project.  
+        💓 <a className="mt-6 text-xl font-semibold underline" href="https://littlemonastar.github.io/art101/final/">KATHARSIS</a>
+        <h3 className="mt-3 text-sm font-mono">2020. Social media experiment.   
         </h3>
         </p>
         <br/ >
         <p class="text-xl mt-4 max-w-lg">
-            <a className="mt-6 text-xl font-semibold underline" href="https://www.mosh.lol/ja">Mosh DAO</a>
-        <h3 className="mt-3 text-sm font-mono">2021.   
+        🦁 <a className="mt-6 text-xl font-semibold underline" href="https://www.mosh.lol/" target="_blank">Mosh DAO</a>
+        <h3 className="mt-3 text-sm font-mono">2021. cross-chain NFT project.
+        </h3>
+        </p>
+        <br/ >
+        <p class="text-xl mt-4 max-w-lg">
+        👺 <a className="mt-6 text-xl font-semibold underline" href="https://wagumi.xyz/" target="_blank"> Wagumi DAO</a>
+        <h3 className="mt-3 text-sm font-mono">2021. Japanese web community.
+        </h3>
+        </p>
+        <br/ >
+        <p class="text-xl mt-4 max-w-lg">3
+        🐾 <a className="mt-6 text-xl font-semibold underline" href="https://cats.wagumi.xyz/" target="_blank"> Wagumi Cats </a>
+        <h3 className="mt-3 text-sm font-mono">2021. Wagumi Cats Generator. 
+        </h3>
+        </p>
+        <br/ >
+        <p class="text-xl mt-4 max-w-lg">
+        🐕 <a className="mt-6 text-xl font-semibold underline" href="htts://buidlers.land/" target="_blank">Buidlers Land</a>
+        <h3 className="mt-3 text-sm font-mono">Coming soon. 
         </h3>
         </p>
 
