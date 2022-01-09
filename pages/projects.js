@@ -33,21 +33,21 @@ function Projects(){
         </h3>
         </p>
         <br/ >
-        <p class="text-xl mt-4 max-w-lg">3
+        <p class="text-xl mt-4 max-w-lg">
         🐾 <a className="mt-6 text-xl font-semibold underline" href="https://cats.wagumi.xyz/" target="_blank"> Wagumi Cats </a>
         <h3 className="mt-3 text-sm font-mono">2021. Wagumi Cats Generator. 
         </h3>
         </p>
         <br/ >
         <p class="text-xl mt-4 max-w-lg">
-        🐕 <a className="mt-6 text-xl font-semibold underline" href="htts://buidlers.land/" target="_blank">Buidlers Land</a>
-        <h3 className="mt-3 text-sm font-mono">Coming soon. 
+        🎋 <a className="mt-6 text-xl font-semibold underline" href="" target="_blank">Kaguya</a>
+        <h3 className="mt-3 text-sm font-mono">2022. Coming soon. 
         </h3>
         </p>
 
         <br />
         <Link href="/" class="mt-4 p-12" passHref>
-             <Button />
+             <Button/>
         </Link> 
     </main>
 
