@@ -18,7 +18,7 @@ function Experience(){
             <p class="text-xl mt-4 max-w-lg">
                 <h3 className="mt-3 font-semibold">
                     Hello, I'm Mona. I'm an artist and founder of{' '}
-                    <a className="mt-6 text-2xl font-semibold underline" href="https://oink-o.ink/">Kaguya</a>. 
+                    <a className="mt-6 text-2xl font-semibold underline" href="https://www.poppin.land/">Poppin</a>. 
 
                 </h3>
                 <br/>

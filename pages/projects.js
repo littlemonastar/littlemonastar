@@ -40,8 +40,8 @@ function Projects(){
         </p>
         <br/ >
         <p class="text-xl mt-4 max-w-lg">
-        🎋 <a className="mt-6 text-xl font-semibold underline" href="" target="_blank">Kaguya</a>
-        <h3 className="mt-3 text-sm font-mono">2022. Coming soon. 
+        🍬 <a className="mt-6 text-xl font-semibold underline" href="https://www.poppin.land/" target="_blank">Poppin</a>
+        <h3 className="mt-3 text-sm font-mono">2022. World's first Eat-to-earn gameFi on Solana. 
         </h3>
         </p>
 

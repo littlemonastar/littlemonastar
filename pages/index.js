@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400 text-black py-2">
       <Head>
-        <title>Monatopia</title>
+        <title>Mona</title>
         <link rel="icon" href="/favicon.ico"/>
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet"></link>
         <script src="https://kit.fontawesome.com/6c11584d2f.js" crossorigin="anonymous"></script>
